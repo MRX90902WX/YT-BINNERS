@@ -151,6 +151,6 @@ print(f"\033[1;34mFECHA: \033[1;37m{dategen()}")
 print(f"\033[1;34mCVV: \033[1;37mgnd")
 print(f"\033[1;34mIP: \033[1;37mUSA")
 print("")
-print("\033[1;32m-> \033[1;37m'\033[1;33mPrender vpn para evitar baneo de IP\033[1;37m'")
+print("\033[1;32m-> \033[1;37m`\033[1;33mPrender vpn para evitar baneo de IP\033[1;37m`")
 
 
