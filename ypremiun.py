@@ -21,6 +21,7 @@ a = (random.randrange(0,8,2))
 b = (random.randrange(0,8,2))
 c = (random.randrange(0,8,2))
 d = (random.randrange(0,8,2))
+e = (random.randrange(1,9))
 
 #DATE
 def dategen():
@@ -42,7 +43,7 @@ print("")
 #IMPRIMIR
 print("\033[1;31m====Youtube Premiun====")
 print("")
-print(f"\033[1;34mBIN : \033[1;37m424094{a}{b}{c}{d}xxxxxx")
+print(f"\033[1;34mBIN : \033[1;37m424094{a}{b}{c}{d}{e}{e}xxxx")
 print(f"\033[1;34mFECHA: \033[1;37m{dategen()}")
 print(f"\033[1;34mCVV: \033[1;37mgnd")
 print(f"\033[1;34mIP: \033[1;37mUSA")
@@ -53,6 +54,34 @@ a = (random.randrange(0,8,2))
 b = (random.randrange(0,8,2))
 c = (random.randrange(0,8,2))
 d = (random.randrange(0,8,2))
+e = (random.randrange(1,9))
+
+#DATE
+def dategen():
+   now = datetime.datetime.now()
+   date = ""
+   month = str(randint(1, 9))
+   current_year = str(now.year)
+   year = str(randint(int(current_year[-2:]) + 1, int(current_year[-2:]) + 6))
+   date = month + "/" + year
+
+   return date
+
+#IMPRIMIR
+print("\033[1;31m====Youtube Premiun====")
+print("")
+print(f"\033[1;34mBIN : \033[1;37m424094{a}{b}{c}{d}{e}xxxxx")
+print(f"\033[1;34mFECHA: \033[1;37m{dategen()}")
+print(f"\033[1;34mCVV: \033[1;37mgnd")
+print(f"\033[1;34mIP: \033[1;37mUSA")
+print("\n")
+
+#VARIABLES
+a = (random.randrange(0,8,2))
+b = (random.randrange(0,8,2))
+c = (random.randrange(0,8,2))
+d = (random.randrange(0,8,2))
+e = (random.randrange(1,9))
 
 #DATE
 def dategen():
@@ -79,6 +108,34 @@ a = (random.randrange(0,8,2))
 b = (random.randrange(0,8,2))
 c = (random.randrange(0,8,2))
 d = (random.randrange(0,8,2))
+e = (random.randrange(1,9))
+
+#DATE
+def dategen():
+   now = datetime.datetime.now()
+   date = ""
+   month = str(randint(1, 9))
+   current_year = str(now.year)
+   year = str(randint(int(current_year[-2:]) + 1, int(current_year[-2:]) + 6))
+   date = month + "/" + year
+
+   return date
+
+#IMPRIMIR
+print("\033[1;31m====Youtube Premiun====")
+print("")
+print(f"\033[1;34mBIN : \033[1;37m424094{a}{b}{c}{d}{e}{e}xxxx")
+print(f"\033[1;34mFECHA: \033[1;37m{dategen()}")
+print(f"\033[1;34mCVV: \033[1;37mgnd")
+print(f"\033[1;34mIP: \033[1;37mUSA")
+print("\n")
+
+#VARIABLES
+a = (random.randrange(0,8,2))
+b = (random.randrange(0,8,2))
+c = (random.randrange(0,8,2))
+d = (random.randrange(0,8,2))
+e = (random.randrange(1,9))
 
 #DATE
 def dategen():
@@ -105,6 +162,88 @@ a = (random.randrange(0,8,2))
 b = (random.randrange(0,8,2))
 c = (random.randrange(0,8,2))
 d = (random.randrange(0,8,2))
+e = (random.randrange(1,9))
+
+#DATE
+def dategen():
+   now = datetime.datetime.now()
+   date = ""
+   month = str(randint(1, 9))
+   current_year = str(now.year)
+   year = str(randint(int(current_year[-2:]) + 1, int(current_year[-2:]) + 6))
+   date = month + "/" + year
+
+   return date
+
+#IMPRIMIR
+print("\033[1;31m====Youtube Premiun====")
+print("")
+print(f"\033[1;34mBIN : \033[1;37m424094{a}{b}{c}{d}{e}xxxxx")
+print(f"\033[1;34mFECHA: \033[1;37m{dategen()}")
+print(f"\033[1;34mCVV: \033[1;37mgnd")
+print(f"\033[1;34mIP: \033[1;37mUSA")
+print("\n")
+
+#VARIABLES
+a = (random.randrange(0,8,2))
+b = (random.randrange(0,8,2))
+c = (random.randrange(0,8,2))
+d = (random.randrange(0,8,2))
+e = (random.randrange(1,9))
+
+#DATE
+def dategen():
+   now = datetime.datetime.now()
+   date = ""
+   month = str(randint(1, 9))
+   current_year = str(now.year)
+   year = str(randint(int(current_year[-2:]) + 1, int(current_year[-2:]) + 6))
+   date = month + "/" + year
+
+   return date
+
+#IMPRIMIR
+print("\033[1;31m====Youtube Premiun====")
+print("")
+print(f"\033[1;34mBIN : \033[1;37m424094{a}{b}{c}{d}{e}{e}xxxx")
+print(f"\033[1;34mFECHA: \033[1;37m{dategen()}")
+print(f"\033[1;34mCVV: \033[1;37mgnd")
+print(f"\033[1;34mIP: \033[1;37mUSA")
+print("\n")
+
+#VARIABLES
+a = (random.randrange(0,8,2))
+b = (random.randrange(0,8,2))
+c = (random.randrange(0,8,2))
+d = (random.randrange(0,8,2))
+e = (random.randrange(1,9))
+
+#DATE
+def dategen():
+   now = datetime.datetime.now()
+   date = ""
+   month = str(randint(1, 9))
+   current_year = str(now.year)
+   year = str(randint(int(current_year[-2:]) + 1, int(current_year[-2:]) + 6))
+   date = month + "/" + year
+
+   return date
+
+#IMPRIMIR
+print("\033[1;31m====Youtube Premiun====")
+print("")
+print(f"\033[1;34mBIN : \033[1;37m424094{a}{b}{c}{d}{e}{e}xxxx")
+print(f"\033[1;34mFECHA: \033[1;37m{dategen()}")
+print(f"\033[1;34mCVV: \033[1;37mgnd")
+print(f"\033[1;34mIP: \033[1;37mUSA")
+print("\n")
+
+#VARIABLES
+a = (random.randrange(0,8,2))
+b = (random.randrange(0,8,2))
+c = (random.randrange(0,8,2))
+d = (random.randrange(0,8,2))
+e = (random.randrange(1,9))
 
 #DATE
 def dategen():
@@ -131,6 +270,7 @@ a = (random.randrange(0,8,2))
 b = (random.randrange(0,8,2))
 c = (random.randrange(0,8,2))
 d = (random.randrange(0,8,2))
+e = (random.randrange(1,9))
 
 #DATE
 def dategen():
