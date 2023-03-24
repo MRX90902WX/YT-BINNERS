@@ -14,7 +14,7 @@ print("")
 print("          \033[1;33mV.1.2  \033[1;32m◎[\033[1;36m°‿\033[1;36m°\033[1;32m]◎")
 print("")
 print("\033[1;36m/* Nota: \033[1;37mIntenten asociar el bin")
-print("         \033[1;37ma Canva y Tilda") 
+print("         \033[1;37ma Canva y Tidal") 
 print("")
 #VARIABLES
 a = (random.randrange(0,8,2))
