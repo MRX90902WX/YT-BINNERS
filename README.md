@@ -15,7 +15,7 @@ CLONAR REPOSITORIO EN TERMUX
 
 - python ypremiun.py
 
-#Esperan que cargue por ahora solo les dará 5 bin 
+#Esperan que cargue por ahora les dará 11 bin
 probar en YouTube Premiun calar también en Canva y Tidal.
 
 *****
